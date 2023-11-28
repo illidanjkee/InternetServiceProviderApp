@@ -28,10 +28,10 @@ $ source env/bin/activate
 <h3>Для авторизації просто введіть логін:пароль, який Ви вводили під час створення супер-користувача</h3>
 
 ## Скріншоти програми
-![demo1](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/c4c43aad-0517-4b80-864f-60a40da1c1f8)
-![demo2](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/032f995f-9854-4398-9b4b-9fa2a9a2a616)
-![demo3](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/24a4c4b4-c102-4d56-ad34-1a391facd388)
-![demo4](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/e2d56d5d-5e20-4691-bd11-868a3326c89b)
-![demo5](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/ca8602db-c76a-4e66-b5d4-d418803a9c98)
-![demo6](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/1dcab012-a4a5-477e-8abe-0339dcaf41ae)
-![demo7](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/3de731af-b5c4-4bea-ae02-f4ed33fbb81a)
+![demo1](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/bb8717af-77d1-4b36-8ec5-b521a2a640fa)
+![demo2](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/5efeb4c2-5379-4580-b449-7fb737ce95a7)
+![demo3](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/da965b98-744a-4ce1-b55e-60c239fa96c8)
+![demo4](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/f9d89cf5-d3c5-4f15-8af4-9113089387e6)
+![demo5](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/3d19753d-f112-4fbd-9114-ff23e68156aa)
+![demo6](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/529eb735-8299-44c4-a06c-8771df08ff42)
+![demo7](https://github.com/illidanjkee/InternetServiceProviderApp/assets/93005007/f62d4bf6-6cd7-4ec7-b61e-83dcab77d4d4)
